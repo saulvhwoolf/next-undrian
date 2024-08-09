@@ -8,7 +8,7 @@ export default function ArtworkWidget({ artwork }) {
         <div className={styles.widget}>
             <Link href={`/artwork/${artwork.id}`} className={styles.mainLink}>
                 <Image
-                    src={artwork.previewUrl}
+                    src={artwork.previewUrl.replace("http://undrian.com/", "/proxy-images/")}
                     alt={artwork.name}
                     width={300}
                     height={200}

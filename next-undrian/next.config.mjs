@@ -10,6 +10,14 @@ const nextConfig = {
             },
         ],
     },
+    async rewrites() {
+        return [
+            {
+                source: '/proxy-images/:path*',
+                destination: 'http://undrian.com/:path*', // Replace with your HTTP image source
+            },
+        ];
+    },
 };
 
 export default nextConfig;

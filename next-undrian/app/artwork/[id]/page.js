@@ -37,7 +37,7 @@ export default function Artwork({params}) {
 
     for (let i = 0; i < artwork.images?.length; i++) {
         mediaElements.push(<>
-            <img key={i} src={artwork.images[i]}
+            <img key={i} src={artwork.images[i].replace("http://undrian.com/", "/proxy-images/")}
                  alt={`${artwork.name} - Photo ${i + 1}`}
                  style={{gridColumn: (mediaCount==1?"span 2":"span 1")}}
             />
@@ -67,7 +67,9 @@ export default function Artwork({params}) {
 
                     {hasAudio && (
                         <div className={styles.audioPlayer}>
-                            <audio controls src={artwork.audio_url} className={styles.audio}/>
+                            <iframe width="100%" height="100" scrolling="no" frameBorder="no"
+                                    src={`https://w.soundcloud.com/player/?url=${artwork.audio_url}&amp;auto_play=false&amp;hide_related=false&amp;show_user=true&amp;&amp;visual=false`}></iframe>
+
                         </div>
                     )}
                 </div>
