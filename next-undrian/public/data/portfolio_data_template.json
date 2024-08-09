@@ -1,0 +1,62 @@
+{
+  "artist": {
+    "name": "Tim Van Hook",
+    "bio": "An artist through the ages"
+  },
+  "categories": [
+    "Painting",
+    "Sculpture",
+    "Photography",
+    "Mixed Media"
+  ],
+  "series": [
+    "Early Works",
+    "Nature Inspired",
+    "Abstract Thoughts",
+    "Recent Explorations"
+  ],
+  "pieces": [
+    {
+      "id": "piece001",
+      "name": "Sunrise Over the Mountains",
+      "date": {
+        "year": 2020,
+        "month": 3,
+        "day": 15
+      },
+      "category": "Painting",
+      "series": "Nature Inspired",
+      "mainPhoto": "/art/lovehatedeath.jpg",
+      "additionalPhotos": [
+        "/art/lovehatedeath.jpg",
+        "/art/lovehatedeath.jpg"
+      ],
+      "video": "/art/lovehatedeath.jpg",
+      "link": "/art/lovehatedeath.jpg",
+      "description": "A vivid depiction of a sunrise over a mountain range, capturing the first light of dawn."
+    },
+    {
+      "id": "piece002",
+      "name": "Whispers of the Wind",
+      "date": {
+        "year": 2019,
+        "month": 11
+      },
+      "category": "Sculpture",
+      "series": "Abstract Thoughts",
+      "mainPhoto": "/art/lovehatedeath.jpg",
+      "poem": "Gentle breeze, unseen force\nShaping the world, course by course\nWhispers of change, soft and low\nNature's breath, forever to flow"
+    },
+    {
+      "id": "piece003",
+      "name": "Urban Jungle",
+      "date": {
+        "year": 2021
+      },
+      "category": "Photography",
+      "series": "Recent Explorations",
+      "mainPhoto": "/art/lovehatedeath.jpg",
+      "description": "A black and white photograph capturing the contrast between nature and urban architecture."
+    }
+  ]
+}

@@ -1,0 +1,1444 @@
+{
+  "artist": {
+    "name": "Tim Van Hook",
+    "bio": "A brief biography of the artist."
+  },
+  "media": [
+    "claro walnut and mahogany",
+    "alder and walnut",
+    "mixed media",
+    "sweetgum",
+    "maple and walnut",
+    "walnut",
+    "Brazilian alder",
+    "walnut and white mahogany",
+    "walnut mahogany and alder",
+    "mixed hardwoods and silk",
+    "poplar",
+    "ceramic",
+    "steel",
+    "walnut and mahogany",
+    "walnut and maple",
+    "maple",
+    "maple and beech",
+    "acrylic on panel",
+    "acrylic on maple",
+    "acrylic on mixed media",
+    "acrylic on wood",
+    "acrylic on wood and canvas",
+    "mixed hardwoods"
+  ],
+  "series": [
+    "Plato's Cave",
+    "Build Well Think",
+    "The Secret Miracle",
+    "The Penal Colony",
+    "Stations",
+    "Mechanism",
+    "Break"
+  ],
+  "pieces": [
+    {
+      "id": "cav_dining",
+      "name": "Dining set",
+      "date": {
+        "year": 2002
+      },
+      "media": "claro walnut and mahogany",
+      "series": "Plato's Cave",
+      "description": "claro walnut and mahogany, 108x50\" table",
+      "previewUrl": "http://undrian.com/cav_dining_files/diningroom.jpg",
+      "images": [
+        "http://undrian.com/cav_dining_files/diningroom.jpg"
+      ]
+    },
+    {
+      "id": "cav_media_cabinet",
+      "name": "Media cabinet",
+      "date": {
+        "year": 2002
+      },
+      "media": "alder and walnut",
+      "series": "Plato's Cave",
+      "description": "alder and walnut, 67\"H",
+      "previewUrl": "http://undrian.com/cav_dining_files/media%20cabinet.jpg",
+      "images": [
+        "http://undrian.com/cav_dining_files/media%20cabinet.jpg"
+      ]
+    },
+    {
+      "id": "cav_end_tables",
+      "name": "End tables",
+      "date": {
+        "year": 2002
+      },
+      "media": "mixed media",
+      "series": "Plato's Cave",
+      "description": "birch and walnut, each 24\"",
+      "previewUrl": "http://undrian.com/cav_dining_files/endtables.jpg",
+      "images": [
+        "http://undrian.com/cav_dining_files/endtables.jpg"
+      ]
+    },
+    {
+      "id": "cav_hall_seat",
+      "name": "Hall seat",
+      "date": {
+        "year": 2002
+      },
+      "media": "sweetgum",
+      "series": "Plato's Cave",
+      "description": "sweetgum, 80\"H",
+      "previewUrl": "http://undrian.com/cav_stools_files/shapeimage_4.png",
+      "images": [
+        "http://undrian.com/cav_stools_files/shapeimage_4.png"
+      ]
+    },
+    {
+      "id": "cav_stools",
+      "name": "Stools",
+      "date": {
+        "year": 2002
+      },
+      "media": "maple and walnut",
+      "series": "Plato's Cave",
+      "description": "maple and walnut, 34\"H",
+      "previewUrl": "http://undrian.com/cav_stools_files/stools.jpg",
+      "images": [
+        "http://undrian.com/cav_stools_files/stools.jpg"
+      ]
+    },
+    {
+      "id": "cav_dictionary_stand",
+      "name": "Dictionary stand",
+      "date": {
+        "year": 2002
+      },
+      "media": "mixed media",
+      "series": "Plato's Cave",
+      "description": "mixed media, 70\"",
+      "previewUrl": "http://undrian.com/cav_stools_files/dictionary%20stand.jpg",
+      "images": [
+        "http://undrian.com/cav_stools_files/dictionary%20stand.jpg"
+      ]
+    },
+    {
+      "id": "cav_caryatable",
+      "name": "Caryatable",
+      "date": {
+        "year": 2003
+      },
+      "media": "walnut",
+      "series": "Plato's Cave",
+      "description": "walnut, 38\"H",
+      "previewUrl": "http://undrian.com/cav_caryatab_files/caryatable.jpg",
+      "images": [
+        "http://undrian.com/cav_caryatab_files/caryatable.jpg"
+      ]
+    },
+    {
+      "id": "cav_arck",
+      "name": "Arck",
+      "date": {
+        "year": 2003
+      },
+      "media": "Brazilian alder",
+      "series": "Plato's Cave",
+      "description": "Brazilian alder, 60\"",
+      "previewUrl": "http://undrian.com/cav_caryatab_files/arck.jpg",
+      "images": [
+        "http://undrian.com/cav_caryatab_files/arck.jpg"
+      ]
+    },
+    {
+      "id": "cav_lovehateseat",
+      "name": "LoveHateSeat",
+      "date": {
+        "year": 2003
+      },
+      "media": "walnut and white mahogany",
+      "series": "Plato's Cave",
+      "description": "walnut and white mahogany, 36\"",
+      "previewUrl": "http://undrian.com/cav_loveseat_files/lovehateseat.jpg",
+      "images": [
+        "http://undrian.com/cav_loveseat_files/lovehateseat.jpg"
+      ]
+    },
+    {
+      "id": "cav_shelflife",
+      "name": "ShelfLife",
+      "date": {
+        "year": 2003
+      },
+      "media": "walnut mahogany and alder",
+      "series": "Plato's Cave",
+      "description": "walnut mahogany and alder, 68\"H",
+      "previewUrl": "http://undrian.com/cav_loveseat_files/shelflife.jpg",
+      "images": [
+        "http://undrian.com/cav_loveseat_files/shelflife.jpg"
+      ]
+    },
+    {
+      "id": "cav_sextus",
+      "name": "Coniunctio Sextus",
+      "date": {
+        "year": 2004
+      },
+      "media": "mixed hardwoods and silk",
+      "series": "Plato's Cave",
+      "description": "mixed hardwoods and silk, 50x50\" table",
+      "previewUrl": "http://undrian.com/cav_coniunc_files/coniunctio_1.jpg",
+      "images": [
+        "http://undrian.com/cav_coniunc_files/coniunctio_1.jpg",
+        "http://undrian.com/cav_coniunc_files/coniunctio_2.jpg"
+      ]
+    },
+    {
+      "id": "cav_lovehatedeath",
+      "name": "LoveHateDeath",
+      "date": {
+        "year": 2005
+      },
+      "media": "poplar",
+      "series": "Plato's Cave",
+      "description": "poplar, 16\"H",
+      "previewUrl": "http://undrian.com/cav_lovehate_files/lovehatedeath.jpg",
+      "images": [
+        "http://undrian.com/cav_lovehate_files/lovehatedeath.jpg"
+      ]
+    },
+    {
+      "id": "cav_godlet",
+      "name": "Fertility Godlet",
+      "date": {
+        "year": 2004
+      },
+      "media": "ceramic",
+      "series": "Plato's Cave",
+      "description": "ceramic, 8\"H",
+      "previewUrl": "http://undrian.com/cav_lovehate_files/shapeimage_4.png",
+      "images": [
+        "http://undrian.com/cav_lovehate_files/shapeimage_4.png"
+      ]
+    },
+    {
+      "id": "cav_venux_of_atherton",
+      "name": "Venus of Atherton",
+      "date": {
+        "year": 2005
+      },
+      "media": "mixed media",
+      "series": "Plato's Cave",
+      "description": "mixed media, 8\"H",
+      "previewUrl": "http://undrian.com/cav_lovehate_files/venus%20lamp.jpg",
+      "images": [
+        "http://undrian.com/cav_lovehate_files/venus%20lamp.jpg"
+      ]
+    },
+    {
+      "id": "cav_five",
+      "name": "Five by Five",
+      "date": {
+        "year": 2006
+      },
+      "media": "poplar",
+      "series": "Plato's Cave",
+      "description": "poplar, 16\"H",
+      "previewUrl": "http://undrian.com/cav_lovehate_files/fivebyfive.jpg",
+      "images": [
+        "http://undrian.com/cav_lovehate_files/fivebyfive.jpg"
+      ]
+    },
+    {
+      "id": "cav_hannukiah",
+      "name": "Hannukiah",
+      "date": {
+        "year": 2004
+      },
+      "media": "steel",
+      "series": "Plato's Cave",
+      "description": "steel, 7\"H",
+      "previewUrl": "http://undrian.com/cav_hanukiah_files/hanukiah.jpg",
+      "images": [
+        "http://undrian.com/cav_hanukiah_files/hanukiah.jpg"
+      ]
+    },
+    {
+      "id": "cav_five",
+      "name": "Daily Planet",
+      "date": {
+        "year": 2005
+      },
+      "media": "poplar",
+      "series": "Plato's Cave",
+      "description": "poplar, 12\"H",
+      "previewUrl": "http://undrian.com/cav_hanukiah_files/dailyplanet.jpg",
+      "images": [
+        "http://undrian.com/cav_hanukiah_files/dailyplanet.jpg"
+      ]
+    },
+    {
+      "id": "cav_weekly_lamp",
+      "name": "Weekly Lamp",
+      "date": {
+        "year": 2006
+      },
+      "media": "mixed media",
+      "series": "Plato's Cave",
+      "description": "mixed media, 27\"H",
+      "previewUrl": "http://undrian.com/cav_hanukiah_files/weeklylamp.jpg",
+      "images": [
+        "http://undrian.com/cav_hanukiah_files/weeklylamp.jpg"
+      ]
+    },
+    {
+      "id": "cav_alchemy_box",
+      "name": "Alchemy Box",
+      "date": {
+        "year": 2004
+      },
+      "media": "mixed hardwoods and silk",
+      "series": "Plato's Cave",
+      "description": "mixed_hardwoods, 5\"H",
+      "previewUrl": "http://undrian.com/cav_hanukiah_files/alchemy%20box.jpg",
+      "images": [
+        "http://undrian.com/cav_hanukiah_files/alchemy%20box.jpg"
+      ]
+    },
+    {
+      "id": "cav_pronk",
+      "name": "Pronk",
+      "date": {
+        "year": 2007
+      },
+      "media": "mixed hardwoods and silk",
+      "series": "Plato's Cave",
+      "description": "mixed_hardwoods, 5\"H",
+      "previewUrl": "http://undrian.com/cav_pronk_files/pronk.jpg",
+      "images": [
+        "http://undrian.com/cav_pronk_files/pronk.jpg"
+      ]
+    },
+    {
+      "id": "cav_kyleagraphy",
+      "name": "Kyleagraphy",
+      "date": {
+        "year": 2007
+      },
+      "media": "walnut and mahogany",
+      "series": "Plato's Cave",
+      "description": "walnut and mahogany, 38\"H",
+      "previewUrl": "http://undrian.com/cav_pronk_files/kyleagraphy.jpg",
+      "images": [
+        "http://undrian.com/cav_pronk_files/kyleagraphy.jpg"
+      ]
+    },
+    {
+      "id": "cav_unfolding_chair",
+      "name": "Unfolding Chair",
+      "date": {
+        "year": 2005
+      },
+      "media": "mixed media",
+      "series": "Plato's Cave",
+      "description": "mixed media, 40\"H",
+      "previewUrl": "http://undrian.com/cav_undrian_files/unfoldingchair.jpg",
+      "images": [
+        "http://undrian.com/cav_undrian_files/unfoldingchair.jpg"
+      ]
+    },
+    {
+      "id": "cav_undrian",
+      "name": "Undrian (red and blue chair)",
+      "date": {
+        "year": 2008
+      },
+      "media": "walnut and maple",
+      "series": "Plato's Cave",
+      "description": "walnut and mahogany, 38\"H",
+      "previewUrl": "http://undrian.com/cav_undrian_files/undrian.jpg",
+      "images": [
+        "http://undrian.com/cav_undrian_files/undrian.jpg"
+      ]
+    },
+    {
+      "id": "cav_diletto",
+      "name": "Diletto (headboard)",
+      "date": {
+        "year": 2008
+      },
+      "media": "maple",
+      "series": "Plato's Cave",
+      "description": "maple, 48\"H",
+      "previewUrl": "http://undrian.com/cav_saulito_files/shapeimage_5.png",
+      "images": [
+        "http://undrian.com/cav_undrian_files/undrian.jpg",
+        "http://undrian.com/cav_saulito_files/shapeimage_5.png"
+      ]
+    },
+    {
+      "id": "cav_saulito",
+      "name": "Saulito",
+      "date": {
+        "year": 2008
+      },
+      "media": "maple and beech",
+      "series": "Plato's Cave",
+      "description": "maple and beech, 48\"H",
+      "previewUrl": "http://undrian.com/cav_saulito_files/shapeimage_4.png",
+      "images": [
+        "http://undrian.com/cav_saulito_files/shapeimage_4.png"
+      ]
+    },
+    {
+      "id": "bdt_trinity",
+      "name": "Trinity",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "He spit in the mud to anoint their eyes,\n\nMade them deaf and blind to their children’s cries.\n\nWorship the Sabbath where people can see\n\nThe way we suffer is god’s mystery.\n\n\n\nMama and daddy said they’d pray for me,\n\nSent to the temple of the trinity.\n\nHe took my brother and sister away.\n\nI hope to join them someday.\n\n\n\nI work in the earth so it sets me free\n\nTo make a new boy who may redeem me,\n\nBut the foolish man builds his house on the sand.\n\nThe flood wipes away all the sins of his hand.\n\n\nMama and daddy said they’d pray for me,\n\nLocked in the prison of our family.\n\nHe keeps the others to stand by his throne.\n\nI know I’ll never go home.\n\n\n\nHe formed in the dust the first woman and man,\n\nWho ate from the tree to be cast out and damned.\n\nHe saves the babies unblemished and pure,\n\nBut I kneel condemned without a savior.\n\n\n\nMama and daddy said they’d pray for me,\n\nBound in the body of this misery.\n\nHe holds his lovers in heaven on high.\n\nI’ll go to hell when I die.",
+      "previewUrl": "http://undrian.com/bdt_index_files/trinity%20sm.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/trinity%20sm.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/trinity-song"
+    },
+    {
+      "id": "bdt_renunciation",
+      "name": "Renunciation",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "They raised him right in the skinny box muted and seen,\n\nAttacks that embalmed his sacred heart, bleating and bled,\n\nDouble Dutch lines rule his life in the living machine,\n\nEntombed within calvinized steel is as good as dead.\n\n\n\nPure hues, black and white, no shades of grey to tempt the monk.\n\nChacmool slouches toward chambers too rigid to be born.\n\nInside clean and true grids trespassed by the hunkypunk,\n\nThe curse of the blest yellow maiden he bears alone.\n\n\n\nA man who dwells in glass houses can’t hide from his fate.\n\nHis stress tests the wall but it moves no more than before.\n\nHe looks up from his carcass at silent birds who wait.\n\nPerhaps redemption came knocking but could find no door.\n\n\n\nHe clicks his remote control, does not renunciate\n\nDoctor, an angel, kneels and does not resuscitate.",
+      "previewUrl": "http://undrian.com/bdt_index_files/renunciation%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/renunciation%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/renunciation"
+    },
+    {
+      "id": "bdt_ladder",
+      "name": "Ladder",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "Beyond the son one dry yellow portal\n\nsends souls to moments as mortals,\n\nordained round again out of time, amen,\n\nright hand lifts up and left condemns.\n\nAs it is above it is below.\n\n\n\nNot yet he or she, not dead but sleep walk\n\na flight of cool stone soft foot falls,\n\ndecline out of step, shrink and grow to turn\n\nback for ever more dying born.\n\nAs it is enough it is unknown.\n\n\n\nWet red room in flesh holds every present.\n\nHope springs but despair's in descent.\n\nOld scarred chamber walls close in to gasp last.\n\nA door shuts out what came to pass.\n\nAs it is beloved it is alone.",
+      "previewUrl": "http://undrian.com/bdt_index_files/ladder%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/ladder%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/ladder-song"
+    },
+    {
+      "id": "bdt_dormer",
+      "name": "Dormer",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "In the crawl space hides a boy who can’t let a word be heard.\n\nThe hills tonight are waiting, but all his friends went home.\n\nA black robed man beats at the door and the heart rings hollow.\n\nThey built his own room, up stairs in the eave where he sits dormant.\n\n\n\nThey keep stuff there they seldom need but don’t want to discard.\n\nThe trash in ponds is sinking, junk cars rest on dirt roads.\n\nHe brings the book of life and death by which he lives below.\n\nProcrustean bed for clown, dunce, heretic measures his torment.\n\n\n\nHe discovers his gifts they pushed way back down in the dark.\n\nSpider threads snag him sleeping until he starts alone.\n\nKnock, knock. Who’s there? It’s your savior. Your savior who you know.\n\nHe sees everything, “forgive us our sins” is his informant.\n\n\n\nHate your mother and your father, leave all this and follow.\n\nPulled from the corner a dead scar thickens against the doorman.\n\nTime stops its tripping, the child remembered lasts not a moment",
+      "previewUrl": "http://undrian.com/bdt_index_files/dormer%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/dormer%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/dormer"
+    },
+    {
+      "id": "bdt_proscenium",
+      "name": "Proscenium",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "There once was a boy tall and fair.\n\n“Young man, sit up straight in your chair.\n\nWhile you’re here in school you follow the rule.\n\nSpeak up, or you’re going nowhere.”\n\nPlease leave him alone. Don’t leave him alone.\n\nLeave him a stick and a stone.\n\n\n\n“Young man, bow your head, close your eyes.\n\nGive thanks for his great sacrifice.”\n\nHe kneels in the church, it makes his knees hurt.\n\nHe wonders how long till he dies.\n\nPlease leave him alone. Don’t leave him alone.\n\nLeave him in fear on his own.\n\n\n\n“Young man, don’t pretend you’re asleep.\n\nI know all the secrets you keep.\n\nI’ll wash this tonight. I’ll turn out your light.\n\nSay ‘Oh, good shepherd, tend your sheep.’ ”\n\nPlease leave him alone. Don’t leave him at home.\n\nLeave him to reap what you’ve sown.\n\n\n\n“Young man, look at me when I talk.\n\nThe holy ones will not be mocked.”\n\nUp grandfather’s stairs no one hears his prayers.\n\nHe waits for the tock of the clock.\n\nPlease leave him alone. Don’t leave him alone.\n\nLeave him hollowed when he’s grown.",
+      "previewUrl": "http://undrian.com/bdt_index_files/proscenium%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/proscenium%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/proscenium"
+    },
+    {
+      "id": "bdt_shroud",
+      "name": "Shroud",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "Here he is on the rock that they call Golgotha.\n\nFurl the flag, shake the shroud, cinch the chain.\n\nLet the great speckled bird take his heart soon enough.\n\nBut he’ll never go back again.\n\n\n\nWhy do you talk like you’ve got a mouth full of rocks,\n\nLying there in the dirt like a worm?\n\nSee, I’ll sit on your chest till you tell me to stop.\n\nBut he’ll never talk back again.\n\n\n\nIs your head made of rock? Will you get out of here?\n\nSilly boy, I can’t be your girlfriend,\n\nCause you’re dumb and yellow, and you act kind of queer.\n\nBut he’ll never turn back again.\n\n\n\nHe looks up at the stars in the wings of the night.\n\nOn warm rocks pebbles poke on his skin.\n\nHe waits for a good book to take him to the light,\n\nAnd he’ll never come back again.",
+      "previewUrl": "http://undrian.com/bdt_index_files/golgotha%20top%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/golgotha%20top%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/golgotha"
+    },
+    {
+      "id": "bdt_travel",
+      "name": "Travel",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "The sun climbs and sinks\n\nAs the moon grows and shrinks\n\nAnd the light of day dims\n\nTill the night never ends.\n\nFeel the pulse beat and still,\n\nSee the chest fall and fill,\n\nAs the eyes open up\n\nAnd then shut.\n\nGo round the years.\n\nGo round the spiral of stars.\n\n\n\nHe goes back in time\n\nWhere he finds him a child\n\nWho has grown to become\n\nThe old man who returns.\n\nSo the boy craves the youth\n\nWho then clings to the man\n\nWhile he saves what he can\n\nFrom the truth.\n\nGo round again.\n\nGo round a world without end.\n\n\n\nAll suffer alive,\n\nFor they suffer desire,\n\nBut desire can’t attach\n\nTo what walks on the path.\n\nThere’s no right for the wrong\n\nBut kindness undoes harm\n\nSo the toll is forgone\n\nNot reborn.\n\nGo round to be.\n\nGo round before memory.",
+      "previewUrl": "http://undrian.com/bdt_index_files/travel%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/travel%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/travel"
+    },
+    {
+      "id": "bdt_miller",
+      "name": "Miller",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "When Doctor Miller cut the melanoma,\n\nHer scalpel sliced away a football,\n\nVesica picsis or a cheap patch, a Dutchman,\n\nAs finger grafts conceal stigmata.\n\n\n\nCross your bow the flying Dutchman won’t go home,\n\nHungry ghost damned to float on the flood.\n\nThe Dutch boy standing stiff like a moon on the dam\n\nCan’t hold in rising tide pumping blood.\n\n\n\nQuixote on a quest tilting at windmills,\n\nRomans thrust in the spear of destiny.\n\nSpinning arms of the cross send his head over heels.\n\nLevees fail and he walks on the sea.",
+      "previewUrl": "http://undrian.com/bdt_index_files/miller%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/miller%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/miller"
+    },
+    {
+      "id": "bdt_corner",
+      "name": "Corner",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "At the counter in the Cozy\n\nCorner Sweet Shop tough guys order\n\ncherry coke.\n\nOn the sidewalk, what a retard,\n\nmarbles talk when frozen hard he\n\nmakes you choke.\n\nIn the doorway by the Playboys\n\npinball girl waits with no idea\n\nwhat you hope.\n\nCement pressure straightens your ribs,\n\njackets your arms, can’t remember\n\nwhen you broke.\n\nBig kids ball game, no one gets it,\n\ndown the storm drain, reach for what’s stuck\n\nin the throat.\n\nEasy vendor, in the store won’t\n\ndare the name for box of Marbro’s\n\nthat you smoke.\n\nTune to lyrics of the gutter,\n\nwords your father’d wash the Bible\n\nclean as soap.\n\nTime you turn on losers, loners,\n\nmock them, push them, blind sweet rushing\n\npower woke.\n\nSteal the album, poke the faggot,\n\nkick the door in, crazy, let in\n\non the joke.\n\nIn the backseat, wine and reefer,\n\nfreakin’ funny how you ask for\n\nnother toke.\n\nWasted, too late, kill the bottle\n\nlens of streetlight, toss the empty\n\ndown the slope.\n\nWipe out the bike, OD on smack,\n\nshot up or knifed, blow off the wake,\n\nsomeone spoke.",
+      "previewUrl": "http://undrian.com/bdt_index_files/corner%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/corner%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/corner"
+    },
+    {
+      "id": "bdt_cleft",
+      "name": "Cleft",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "Got a hard candy stuck blue in his throat.\n\nGrab him by the legs, shake that demon out.\n\nRun out of the house and climb up the cliff\n\nThat dangles the boy and says make a wish.\n\nHe’ll break from her grip but not abandon\n\nThe spire inside stacked like a totem.\n\n\n\nThe mountain’s old man won’t stir from his snooze.\n\nWives cleave to husbands, not the child they lose\n\nWho’s caught on the rock between the hard face,\n\nRaised high by the heels and dipped in grey grace.\n\nDredge up the lizard wedged in a crevice.\n\nTurn tail to worship the church of abyss.\n\n\n\nCan’t say so won’t say the vow of the cold,\n\nHard, wet and hungry hole’s ace beats the fold.\n\nFull grown to hold stone that used to pound fear,\n\nHis prayer’s solitaire works in the beast’s lair.\n\nHis fat hibernates and waits for no thaw,\n\nLooks out from the maw for the saint’s arrows.",
+      "previewUrl": "http://undrian.com/bdt_index_files/cleft%20small.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/cleft%20small.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/cleft"
+    },
+    {
+      "id": "bdt_camp",
+      "name": "Camp",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "In the morning we walk to the chapel.\n\nIn the evening we go to the concert.\n\nWhen the bell rings, we hurry to supper,\n\nBless the bug juice that we are served.\n\nIn the woods, an empty A frame,\n\nShe can’t cook like it is in heaven.\n\nIn the craft shop carve and paint a totem,\n\nHalf a world from the camp of Christ.\n\n\n\nCircle tentels against what is pleasant.\n\nName them after twelve lost Indian tribes\n\nWho were killed off, converted or exiled,\n\nAdam’s heirs but not the chosen.\n\nIn the woods, the sinless boys ran,\n\nTrumpets sound the songs of last judgment.\n\nWorn by the beast, the crown of the bone man\n\nAdorned by the angel of death.\n\n\n\nWork his fifty for two weeks in July.\n\nWork his fifty for a score till he dies.\n\nWash in the lake. The soap floats at his waist.\n\nFind the bathroom behind black trees.\n\nIn the woods with reservations,\n\nHe’s waiting for a resurrection,\n\nShut in at night by the double Dutch doors\n\nWithout a breath of heaven’s breast.",
+      "previewUrl": "http://undrian.com/bdt_index_files/camp.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/camp.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/camp"
+    },
+    {
+      "id": "bdt_garage",
+      "name": "Garage",
+      "date": {
+        "year": 2010
+      },
+      "series": "Build Well Think",
+      "poem": "Where the dirt road narrows there’s an old garage\n\nFull of trash, with a pit open in the floor,\n\nEmpty cans, cigarettes, Hustlers in garbage,\n\nTill the night a fiery furnace fills the door.\n\n\n\nThe beast cannot say anything,\n\nAnd the bone man with no eyes hears you swing,\n\nAnd your grandpa preaches, “Wait for the king,”\n\nAnd the Buddha winks and jokes, “Do not cling”.\n\n\n\nWould you like to climb up and hang on a rope,\n\nAt the roof of the gym where you wish you fell?\n\nOr would you singe the thread of the insect’s hope\n\nIn the mass pulling you down into the well?\n\n\n\nMother sings she knows what you think,\n\nAnd your father yells, “Don’t pull on that string,”\n\nAnd the bully mocks, “You’re weak and you stink,”\n\nAnd the prophet cries out “Death has no sting.”\n\n\n\nDemons judge from their niche in the red-hot walls.\n\nThe rats chew through your bond to the pendulum.\n\nRip the cord born a bitch in a place grace falls.\n\nDon’t forget to let go just before the end.\n\n\n\nDoctor prescribes, “Go see a shrink,”\n\nAnd the maiden blinks back tears when you sink,\n\nAnd the Dutch boy laughs with you on the brink,\n\nAnd the angel whispers, “Ask for your wings.”",
+      "previewUrl": "http://undrian.com/bdt_index_files/garage%20low.jpg",
+      "images": [
+        "http://undrian.com/bdt_index_files/garage%20low.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/garage"
+    },
+    {
+      "id": "mir_",
+      "name": "Eremos",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on panel",
+      "series": "The Secret Miracle",
+      "description": "acrylic on panel, 14\"H",
+      "poem": "Look, the clock has crawled to five oh six.\n\nThere’s a peg for each and proper use.\n\nWhile the model dries, the Chevy ticks.\n\nLater sleep to Cousin Brucie’s voice.\n\n\n\nNow it’s getting late in this lonely place\n\nwhere the faithful seek some sustenance.\n\nBabies called to heaven keep and bless\n\nquiet, ordered, clean indifference.\n\n\n\nHush, he’s tired managing the plant.\n\nTime to wash your hands of all of this.\n\nSimple food is fine for those who want\n\ntheir reward above in paradise.\n\n\n\nNow it’s getting late in this lonely place\n\nwhere the fallen seek some sustenance.\n\nBabies called to heaven keep and bless\n\nquiet, ordered, cleanly resentments.\n\n\n\nTrue, I cook, and read, objectify\n\nwith my back toward the miraculous.\n\nBut if I should wake before I die\n\none last supper’s bun would be enough.\n\n\n\nNow it’s getting late in this lonely place\n\nwhere the faithless seek some sustenance.\n\nBabies called to heaven keep and bless\n\nquiet, ordered, cleanly consequence.",
+      "previewUrl": "http://undrian.com/mir_index_files/eremos%20open.jpg",
+      "images": [
+        "http://undrian.com/mir_eremos_files/shapeimage_4.png",
+        "http://undrian.com/mir_index_files/eremos%20open.jpg",
+        "http://undrian.com/mir_eremos_files/eremos%20flat.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/eremos-song"
+    },
+    {
+      "id": "mir_ephphatha",
+      "name": "Ephphatha",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on panel",
+      "series": "The Secret Miracle",
+      "description": "acrylic on panel, 14\"H",
+      "poem": "They brought in a boy with an impediment.\n\n“You unclean spirit, I command you to leave.\n\nEphphatha!” that is, be opened. Cast out,\n\nthe demon convulsed and cried out loud.\n\nIt’s not his tongue that was released.\n\n“Son, did you have an accident?”\n\n\n\nIn truth, you must become as a child,\n\nand suffer the swine on the mountainside.\n\n“Jerkoff! Faggot! Cocksucker! Queer!\n\nYou sure can’t talk but you can hear.\n\nYou fucking sound like porky pig.\n\nYou pissed your pants, you little prick.”\n\n\n\nThe rule is that you must raise your hand\n\nif you need to go to the restroom.\n\nWhen the teacher says “Yes, young man?”\n\nask “Please, may I go to the boy’s room?”.\n\nWhen the teacher says “Yes, you can,”\n\nthen get up and go to the bathroom.\n\n\n\nYour parents are busy. They have work to do.\n\nObey your teachers. Work hard in school.\n\nGo out to play in the wilderness.\n\nClimb past the big rock to the archery.\n\nWalk down the dirt road to the old quarry.\n\nLook out and stay away from the big kids.\n\n\n\nTo answer the phone, you must use these words:\n\n“Hello.  May I ask who’s calling, please?”\n\nWhen the class recites, and everyone takes turns,\n\ncount out the lines to see where you’ll seize.\n\nWhen the Lord sends you out into the herd,\n\nhold hands together, and jump in the sea.",
+      "previewUrl": "http://undrian.com/mir_index_files/ephphatha%20opening.jpg",
+      "images": [
+        "http://undrian.com/mir_ephphatha_files/shapeimage_4.png",
+        "http://undrian.com/mir_index_files/ephphatha%20opening.jpg",
+        "http://undrian.com/mir_ephphatha_files/ephphatha%20flat.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/ephphatha-song"
+    },
+    {
+      "id": "mir_ichthyx",
+      "name": "Ichthys",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on maple",
+      "series": "The Secret Miracle",
+      "description": "acrylic on maple, 8\"H",
+      "poem": "Astride the dock and gunnel the boy capsizes.\n\nHe swims with the fishes, wishboned, he baptizes.\n\nThe water breaks his fall, so wide eyed I jump in,\n\nwaiting for no son of god or sons of bitches.\n\n\n\nAfter I pull him up from his quiet bright float,\n\nhe tells me, “Dad, I saw the bottom of the boat.”\n\nI had to sputter up alone, eyes not open.\n\nSaved before the father is very auspicious.\n\n\n\nThe father unmoored casts the lure in the water.\n\nA comforting rod spares his sight for the bobber.\n\nIt’s me rocking the hull of this fisher of men.\n\nIf he lands one for her supper it will fix this.\n\n\n\nDo babies hang the word on the line as a joke,\n\nor will they take the bait on the end of the hook?\n\nBitter in the tummy, sweet as honey on the tongue,\n\nthey taste their names in the book of life. Delicious.\n\n\n\nHe could lift me like Peter, submerged in my doubt.\n\nTo see if I’d sink and swim, he could throw me out.\n\nHe’s a sailor who can’t break the surface tension.\n\nPlease keep me, catch and release gets repetitious.\n\n\n\nI am frozen between. The cork never twitches.\n\nWe babies hover safe. They try hard to trick us.\n\nPray with Tertullian, “We are little fishes,\n\nborn in water, in the image of our Ichthys.”",
+      "previewUrl": "http://undrian.com/mir_index_files/ichthys%20opening.jpg",
+      "images": [
+        "http://undrian.com/mir_ichthys_files/shapeimage_4.png",
+        "http://undrian.com/mir_index_files/ichthys%20opening.jpg",
+        "http://undrian.com/mir_ichthys_files/ichthys%20flat.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/ichthys-song"
+    },
+    {
+      "id": "mir_eucharis",
+      "name": "Eucharis",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on mixed media",
+      "series": "The Secret Miracle",
+      "description": "acrylic on mixed media, 6\"H",
+      "poem": "Don’t talk back. Go to your room,\n\nor I’ll get the wooden spoon.\n\nWhen your father comes home soon\n\nthen you’ll sing a different tune.\n\nEach boy in Jesus has a friend.\n\n\n\nWonder at our daily bread.\n\nBy his hand we all are fed.\n\nIf you mock the word of god\n\nthen I’ll smack you in the head.\n\nPlease make this supper last, amen.\n\n\n\nAsk forgiveness in your prayer\n\nfor the sins that you can bear.\n\nWag your fingers in the air\n\nand I’ll knock you off your chair.\n\nPlease let this pitcher pass again.\n\n\n\nLiving in the Bible belt\n\nwith the lash that Jesus felt\n\nraises up a purple welt,\n\nmark of Cain upon your pelt,\n\na world as endless as the end.",
+      "previewUrl": "http://undrian.com/mir_index_files/eucharis%20closing.jpg",
+      "images": [
+        "http://undrian.com/mir_eucharis_files/shapeimage_4.png",
+        "http://undrian.com/mir_index_files/eucharis%20closing.jpg",
+        "http://undrian.com/mir_eucharis_files/eucharis%20flat.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/eucharis-song"
+    },
+    {
+      "id": "mir_lazarus",
+      "name": "Lazarus",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on wood",
+      "series": "The Secret Miracle",
+      "description": "acrylic on wood, 4\"H",
+      "poem": "Walking home late and stoned I fall down into a ditch.\n\nHe grounds me and says he’ll pray for me, son of a bitch.\n\nHow can I put up with all of my parents’ bullshit?\n\nMan, I could use a hit.\n\n\n\nJesse buys us Seagram’s Seven for the English trip.\n\nWe swear on the Bible that we have not had a sip.\n\nHow do I get through detention and some stupid shrink?\n\nMan, I could use a drink.\n\n\n\n“You talk big but you can’t back it up,” she pulls her clothes.\n\nI can’t figure how to get inside her pantyhose.\n\nWhat can I do so these girls don’t think I’m such a joke?\n\nMan, I could use a toke.\n\n\n\nI flash the peace sign to the next car stopped at the light.\n\nThey open the door to drag me out and start a fight.\n\nWhen do I have a chance to show these guys what I’ve got?\n\nMan, I could use a shot.\n\n\n\nWhen we run away to Tampa, he calls on the phone.\n\nI sit and smoke till he gets back, says “I’m going home.”\n\nWhy do I come to life only when I’m acting bad?\n\nMan, I could use a tab.\n\n\n\nJesse gets his works, gives me a beer, calls me a punk.\n\nThen he’s in a bathtub of ice held up by those chicks.\n\nHow do I make sure I don’t OD using this junk?\n\nMan, I could use a fix.",
+      "previewUrl": "http://undrian.com/mir_index_files/lazarus%20open.jpg",
+      "images": [
+        "http://undrian.com/mir_index_files/lazarus%20open.jpg",
+        "http://undrian.com/mir_lazarus_files/shapeimage_5.png"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/lazarus-song"
+    },
+    {
+      "id": "mir_infirmity",
+      "name": "Infirmity",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on wood",
+      "series": "The Secret Miracle",
+      "description": "acrylic on wood, 4\"H",
+      "poem": "We went steady at your basement party,\n\nThough I did not know or ask what that meant,\n\nBut now I can see you look exactly\n\nLike my wife as a child I never met.\n\nBrought up in conformity\n\nI can’t ask why you prophecy\n\nMy eleven year infirmity.\n\n\n\nOne kiss on your cheek on the church hayride\n\nLeft some flower scent powder on my lips.\n\nGuess a taste for that must be acquired\n\nLike a taste for beer or cigarettes.\n\nYour fear and my sincerity\n\nLeft no question I’m predestined\n\nTo a thirteen year infirmity.\n\n\n\nMy palm like a spoon slips inside the shell\n\nOf a soft boiled egg in the back row dark,\n\nWhile you were afraid that I wouldn’t call\n\nIf you let me go too fast and too far.\n\nYour trust hides the urgency\n\nWith which I need you to redeem\n\nMy fifteen year infirmity.\n\n\n\nWhen I lifted the hem of your garment\n\nI felt some power take and keep me safe.\n\nYou cried when you remembered your boyfriend\n\nAnd extinguished me when you pulled away.\n\nI count down eternity\n\nWaiting on the kingdom come\n\nfor my seventeen year infirmity.\n\n\n\nWe got wet on the motorcycle ride.\n\nYou put my flannel shirt on in my room.\n\nIt felt so good at last to get inside.\n\nThey said we don’t want you in here alone.\n\nAnd your love’s uncertainty\n\nCannot replace the state of grace\n\nof my eighteen year infirmity.",
+      "previewUrl": "http://undrian.com/mir_index_files/infirmity%20face.jpg",
+      "images": [
+        "http://undrian.com/mir_infirmity_files/shapeimage_4.png",
+        "http://undrian.com/mir_index_files/infirmity%20face.jpg",
+        "http://undrian.com/mir_infirmity_files/infirmity%20flat.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/infirmity-song-2"
+    },
+    {
+      "id": "mir_hammer",
+      "name": "Hammer",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on wood and canvas",
+      "series": "The Secret Miracle",
+      "description": "acrylic on wood and canvas, 8\"H",
+      "poem": "A camp sign says work makes you free,\n\nso I cut down and milled a tree.\n\nI notched the crosspiece best I could,\n\nyou know I work my hands in wood.\n\nWorking hard to crucify myself.\n\n\n\nHands idle are the devil’s play.\n\nClimbed and kicked the ladder away\n\nfrom cleats that I built for my feet,\n\nwith four spike nails between my teeth.\n\nWorking hard to crucify myself.\n\n\n\nI bend and nail my two feet down.\n\nMy left hand cups a nail I pound.\n\nLook at the hammer like a fool.\n\nA craftsman’s poor who blames his tool.\n\nWorking hard to crucify myself.\n\n\n\nSaved by grace not the work I planned,\n\nI cannot nail down my right hand.\n\nSince I can see I’ll hang here long,\n\nI have the time to write this song.\n\nWorking hard to crucify myself.",
+      "previewUrl": "http://undrian.com/mir_index_files/hammer%20coniunctio.jpg",
+      "images": [
+        "http://undrian.com/mir_hammer_files/shapeimage_4.png",
+        "http://undrian.com/mir_hammer_files/hammer%20fold.jpg",
+        "http://undrian.com/mir_hammer_files/hammer%20folded.jpg",
+        "http://undrian.com/mir_hammer_files/shapeimage_5.png"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/hammer-song"
+    },
+    {
+      "id": "mir_transfiguration",
+      "name": "Transfiguration",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on wood and canvas",
+      "series": "The Secret Miracle",
+      "description": "acrylic on wood and canvas, 12\"H",
+      "poem": "Such a happy chubby baby,\n\nbut he was born in Adam’s sin.\n\nQuiz him on his half the Bible.\n\nYou’ve raised up such a fine young man.\n\n\n\nSandwiched by the other infants,\n\nhear my thrice begotten son\n\nmourn for the beast’s indifference\n\nto the corpse he will become.\n\n\n\nHe seemed depressed from his travels,\n\nlost on the mountain, left alone.\n\nHome, work, family, so wonderful,\n\nhis better half has saved his soul.\n\n\n\nBeloved bone man’s countenance\n\nin bright clouds’ raiment glistens.\n\nBehold the son I will renounce\n\nso my children will listen.\n\n\n\nOh, this is real, real bad, you know,\n\nbut I’m just fine above the waist.\n\nI guess I lost him long ago,\n\nI don’t like going where he stays.\n\n\n\nWhile the boys are heavy with sleep,\n\nthe priest sleeps with the fathers.\n\nArise to live, condemn, believe\n\nbut tell no one till after.",
+      "previewUrl": "http://undrian.com/mir_index_files/transfiguration%20fold.jpg",
+      "images": [
+        "http://undrian.com/mir_transfigur_files/transfiguration.jpg",
+        "http://undrian.com/mir_index_files/transfiguration%20fold.jpg",
+        "http://undrian.com/mir_transfigur_files/transfiguration%20flat.jpg",
+        "http://undrian.com/mir_transfigur_files/shapeimage_4.png"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/transfiguration-song"
+    },
+    {
+      "id": "mir_still",
+      "name": "Still",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on panel",
+      "series": "The Secret Miracle",
+      "description": "acrylic on panel, 7x10\"",
+      "poem": "Ill winds slap me about, the gale whips off my clothes,\n\nsucks the life from my lungs and the words from my throat.\n\nThere’s no love still enough to rebuke, calm the flap\n\nso a wisp of my voice can sneak out.\n\n\n\nCareless flames fondle me, their tongues lick off my skin,\n\nchar my cheeks to cinders and my lips to a clink.\n\nThere’s no love clear and cold distilled to wet my trap\n\nfor a spittle of voice to leak out.\n\n\n\nMonster swells raise shear walls that fall all over me,\n\nhug me way down below where I can’t see to breathe.\n\nThere’s no love light and deep to still buoy me up top,\n\npress my chest so my voice will squeak out.\n\n\n\nDry dirt quakes, dead earth breaks, the rock splits like a shake,\n\ntumbles me in a pit where I can’t hear the dark.\n\nThere’s no love thick and quick that will bind up the gap\n\nand still bear a small voice to peek out.",
+      "previewUrl": "http://undrian.com/mir_index_files/still%20panel.jpg",
+      "images": [
+        "http://undrian.com/mir_index_files/still%20panel.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/still-song"
+    },
+    {
+      "id": "mir_temple",
+      "name": "Temple",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on panel",
+      "series": "The Secret Miracle",
+      "description": "acrylic on panel, 7x10\"",
+      "poem": "I drink so I stop thinking.\n\nI think I should stop drinking.\n\nI sure don’t need no savior\n\nto turn my wine to water.\n\n\n\nNo one can see my impotence.\n\nNo ear to hear the discordance,\n\nso slice it off with a razor\n\nand spurn me to take in another.\n\n\n\nAlone I stand as I please\n\ninside all these empty days\n\nthat paralyze me like a taser\n\nwhile I yearn to lean on a lover.\n\n\n\nWe’re slime on a rock in the sky,\n\nselected to feed, breed and die,\n\nbut my works will win holy favor\n\nand earn salvation forever.\n\n\n\nI raise my temple to heaven,\n\nupheld by rage and sarcasm,\n\nincised with a black light laser\n\nthat burns thru stone like butter.\n\n\n\nIn a halo of sodium vapor\n\nI search for a key on the paper.\n\nIf I look out in the umbra\n\nit churns my gut and I shudder.\n\n\n\nThe key that nobody needed\n\nrings sound and fury repeated.\n\nDon’t need no help from our father\n\nto learn to talk with a stutter.",
+      "previewUrl": "http://undrian.com/mir_index_files/temple%20panel.jpg",
+      "images": [
+        "http://undrian.com/mir_index_files/temple%20panel.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/temple-song"
+    },
+    {
+      "id": "mir_tletha",
+      "name": "Tletha",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on panel",
+      "series": "The Secret Miracle",
+      "description": "acrylic on panel, 7x10\"",
+      "poem": "Siblings alive suffer in sin, not those still born.\n\nEach day I roll the slab away to release her.\n\nWhy can’t I sleep with her until resurrection?\n\nAt night they pray she’s interred where brothers keep her.\n\n\n\nThis clever boy tricks death to try to tie the cord.\n\nThe last and first get the birth right but not the teat.\n\nThey blind their eyes and move ahead, without a word.\n\n“Awake. Arise. Give the maiden some meat to eat.”\n\n\n\nThe bride lays hands on errant boys, holds them nearer.\n\nVirtue left her to mute demons of her bachelors.\n\nShe wades into issues of blood white as manna.\n\nFaith made her whole and staunched the flow till the rapture.\n\n\n\nI am condemned to stone in place of one rough tree.\n\nI turn around and ask alone, “Who touched me?”",
+      "previewUrl": "http://undrian.com/mir_index_files/tletha.jpg",
+      "images": [
+        "http://undrian.com/mir_index_files/tletha.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/tletha-song"
+    },
+    {
+      "id": "mir_zaphthani",
+      "name": "Zaphthani",
+      "date": {
+        "year": 2009
+      },
+      "media": "acrylic on panel",
+      "series": "The Secret Miracle",
+      "description": "acrylic on panel, 7x10\"",
+      "poem": "The baby cries but it’s not time to feed.\n\nWander the wilderness, never go home.\n\nTwin pillars lift me to see what I need.\n\nDaily bread on this peak tastes sweet as stone.\n\n\n\nOverthrown to atone\n\nFor nothing is enough\n\nThat I fake it alone\n\nWith no one’s love.\n\n\n\nOn command raise me up to sacrifice.\n\nA sparrow falls eager to fill its fate.\n\nStay the hand, desert me for forty nights.\n\nLet this life pass from me. Or, I can wait.\n\n\n\nOverthrown to atone\n\nFor nothing is enough\n\nThat I fake it alone\n\nWithout your love.\n\n\n\nFrom Eden I leave with all I can take.\n\nBetter to reign down here than serve above.\n\nThis vista reveals what I must forsake.\n\nI don’t cling to the ark, give me a shove.\n\n\n\nOverthrown to atone\n\nFor nothing is enough\n\nThat I fake it alone\n\nWith all your love.",
+      "previewUrl": "http://undrian.com/mir_index_files/zaphthani.jpg",
+      "images": [
+        "http://undrian.com/mir_index_files/zaphthani.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/zaphthani-song"
+    },
+    {
+      "id": "pen_chairification",
+      "name": "Chairification",
+      "date": {
+        "year": 2008
+      },
+      "media": "mixed hardwoods",
+      "series": "The Penal Colony",
+      "description": "mixed hardwoods, 72\"H (raised)",
+      "previewUrl": "http://undrian.com/pen_index_files/chairifiction.jpg",
+      "images": [
+        "http://undrian.com/pen_index_files/chairifiction.jpg",
+        "http://undrian.com/pen_chairif_files/chairifiction%20sitting.jpg"
+      ]
+    },
+    {
+      "id": "pen_aqedah",
+      "name": "Aqedah",
+      "date": {
+        "year": 2008
+      },
+      "media": "mixed hardwoods",
+      "series": "The Penal Colony",
+      "description": "mixed hardwoods, 28\"H",
+      "poem": "Aqedah is the Hebrew word for the binding of Isaac.",
+      "previewUrl": "http://undrian.com/pen_index_files/aqedah%20burning.jpg",
+      "images": [
+        "http://undrian.com/pen_index_files/aqedah%20burning.jpg",
+        "http://undrian.com/pen_aqedah_files/aqedah.jpg"
+      ]
+    },
+    {
+      "id": "pen_dagon",
+      "name": "Dagon",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 18\"H (on 12\" box)",
+      "poem": "Dagon is the Philistine god whose temple Samson destroyed.",
+      "previewUrl": "http://undrian.com/pen_index_files/dagon%20outside.jpg",
+      "images": [
+        "http://undrian.com/pen_dagon_files/shapeimage_4.png",
+        "http://undrian.com/pen_dagon_files/dagon%20eyelevel.jpg",
+        "http://undrian.com/pen_index_files/dagon%20outside.jpg"
+      ]
+    },
+    {
+      "id": "pen_vulning",
+      "name": "Vulning (for Marcia)",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 4\"H",
+      "poem": "Vulning is the medieval belief that a pelican pierced its breast with its beak to feed its young with its own blood.",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_4.png",
+      "images": [
+        "http://undrian.com/pen_index_files/shapeimage_4.png",
+        "http://undrian.com/pen_vulning_files/vulning%20back.jpg"
+      ]
+    },
+    {
+      "id": "pen_penuel",
+      "name": "Penuel",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 8\"H",
+      "poem": "Penuel is the name of the place where Jacob wrestled with an angel until the break of dawn.",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_5.png",
+      "images": [
+        "http://undrian.com/pen_index_files/shapeimage_5.png",
+        "http://undrian.com/pen_penuel_files/penuel%20low.jpg",
+        "http://undrian.com/pen_penuel_files/penuel%20side.jpg"
+      ]
+    },
+    {
+      "id": "pen_decalog",
+      "name": "decalog",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 7\"H",
+      "poem": "A decalog is an authoritative set of rules, or, when capitalized, the Ten Commandments.",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_6.png",
+      "images": [
+        "http://undrian.com/pen_index_files/shapeimage_6.png",
+        "http://undrian.com/pen_decalog_files/shapeimage_5.png",
+        "http://undrian.com/pen_decalog_files/shapeimage_4.png"
+      ]
+    },
+    {
+      "id": "pen_mansions",
+      "name": "Mansions",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 21\"H",
+      "poem": "In medieval cathedrals, Bible scenes were enacted in small booths around the nave called mansions.",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_7.png",
+      "images": [
+        "http://undrian.com/pen_index_files/shapeimage_7.png",
+        "http://undrian.com/pen_mansions_files/shapeimage_5.png"
+      ]
+    },
+    {
+      "id": "pen_antipatros",
+      "name": "Antipatros",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 10\"H",
+      "poem": "Herod Antipatros was the Tetrarch of Gallilee at the time of the Gospels.",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_8.png",
+      "images": [
+        "http://undrian.com/pen_antipatros_files/ap%20salome%20angle%20eye.jpg",
+        "http://undrian.com/pen_antipatros_files/ap%20herod%20angle%20eye.jpg",
+        "http://undrian.com/pen_antipatros_files/ap%20graffiti%20salome.jpg",
+        "http://undrian.com/pen_antipatros_files/ap%20caryatable.jpg"
+      ]
+    },
+    {
+      "id": "pen_deuce",
+      "name": "Deuce",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 17\"H",
+      "poem": "Deuce is a nickname for the devil, and a play on the words deus, deux, due, and do",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_9.png",
+      "images": [
+        "http://undrian.com/pen_deuce_files/shapeimage_4.png",
+        "http://undrian.com/pen_deuce_files/shapeimage_5.png",
+        "http://undrian.com/pen_deuce_files/deuce%20sarcophagus.jpg",
+        "http://undrian.com/pen_deuce_files/deuce%20triptych.jpg",
+        "http://undrian.com/pen_index_files/shapeimage_9.png"
+      ]
+    },
+    {
+      "id": "pen_upharsin",
+      "name": "Upharsin",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 23\"H",
+      "poem": "Upharsin is the word the unseen hand wrote on the wall of Nebuchadnezzar’s palace, meaning “found wanting”.",
+      "previewUrl": "http://undrian.com/pen_index_files/upharsim%20crack.jpg",
+      "images": [
+        "http://undrian.com/pen_upharsin_files/upharsim%20madman.jpg",
+        "http://undrian.com/pen_index_files/upharsim%20crack.jpg"
+      ]
+    },
+    {
+      "id": "pen_phix",
+      "name": "Phix",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 13\"H",
+      "poem": "Phix was the name of the sphinx who guarded the gates of Thebes and devoured anyone unable to answer her riddles.",
+      "previewUrl": "http://undrian.com/pen_index_files/phix%20front%20left.jpg",
+      "images": [
+        "http://undrian.com/pen_phix_files/phix%20front.jpg",
+        "http://undrian.com/pen_index_files/phix%20front%20left.jpg",
+        "http://undrian.com/pen_phix_files/phix%20back%20right%202.jpg"
+      ]
+    },
+    {
+      "id": "pen_eskatos",
+      "name": "Eskatos",
+      "date": {
+        "year": 2009
+      },
+      "media": "mixed media",
+      "series": "The Penal Colony",
+      "description": "mixed media, 8\"H",
+      "poem": "Eskatos is Greek for final or end.",
+      "previewUrl": "http://undrian.com/pen_index_files/shapeimage_10.png",
+      "images": [
+        "http://undrian.com/pen_eskatos_files/shapeimage_4.png",
+        "http://undrian.com/pen_index_files/shapeimage_10.png",
+        "http://undrian.com/pen_eskatos_files/shapeimage_5.png"
+      ]
+    },
+    {
+      "id": "sta_carryout",
+      "name": "Carryout",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 20\"H (open)",
+      "previewUrl": "http://undrian.com/sta_index_files/carryout%20open.jpg",
+      "images": [
+        "http://undrian.com/sta_carryout_files/carryout%20tilt.jpg",
+        "http://undrian.com/sta_index_files/carryout%20open.jpg",
+        "http://undrian.com/sta_carryout_files/carryout%20closed.jpg",
+        "http://undrian.com/sta_carryout_files/carryout%20flat.jpg"
+      ]
+    },
+    {
+      "id": "sta_case",
+      "name": "Case",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 12\"H (open)",
+      "previewUrl": "http://undrian.com/sta_index_files/case%20closing.jpg",
+      "images": [
+        "http://undrian.com/sta_case_files/case%20open.jpg",
+        "http://undrian.com/sta_case_files/case%20closed.jpg",
+        "http://undrian.com/sta_case_files/case%20opening.jpg",
+        "http://undrian.com/sta_index_files/case%20closing.jpg"
+      ]
+    },
+    {
+      "id": "sta_flask",
+      "name": "Flask",
+      "date": {
+        "year": 2010
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 9\"H (closed)",
+      "previewUrl": "http://undrian.com/sta_index_files/flask%20crack.jpg",
+      "images": [
+        "http://undrian.com/sta_flask_files/flask.jpg",
+        "http://undrian.com/sta_flask_files/flask%20open%201.jpg",
+        "http://undrian.com/sta_flask_files/flask%20opening%202.jpg",
+        "http://undrian.com/sta_index_files/flask%20crack.jpg"
+      ]
+    },
+    {
+      "id": "sta_trap",
+      "name": "Trap",
+      "date": {
+        "year": 2010
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 12\"H",
+      "previewUrl": "http://undrian.com/sta_index_files/trap%20front%20top.jpg",
+      "images": [
+        "http://undrian.com/sta_index_files/trap%20front%20top.jpg",
+        "http://undrian.com/sta_trap_files/trap%20front%20close.jpg",
+        "http://undrian.com/sta_trap_files/trap%20front%20side.jpg"
+      ]
+    },
+    {
+      "id": "sta_locket",
+      "name": "Locket",
+      "date": {
+        "year": 2010
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 5\"H (closed)",
+      "previewUrl": "http://undrian.com/sta_index_files/locket%20closing.jpg",
+      "images": [
+        "http://undrian.com/sta_locket_files/shapeimage_4.png",
+        "http://undrian.com/sta_locket_files/locket%20disjoint.jpg",
+        "http://undrian.com/sta_locket_files/locket%20side%20view.jpg",
+        "http://undrian.com/sta_index_files/locket%20closing.jpg"
+      ]
+    },
+    {
+      "id": "sta_carousel",
+      "name": "Carousel",
+      "date": {
+        "year": 2010
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 12\"H",
+      "previewUrl": "http://undrian.com/sta_index_files/carousel%20top.jpg",
+      "images": [
+        "http://undrian.com/sta_carousel_files/carousel%20luke.jpg",
+        "http://undrian.com/sta_carousel_files/carousel%20stephen.jpg",
+        "http://undrian.com/sta_carousel_files/carousel%20people.jpg",
+        "http://undrian.com/sta_carousel_files/carousel%20gears.jpg"
+      ],
+      "video_url": "https://vimeo.com/252809388"
+    },
+    {
+      "id": "sta_flat",
+      "name": "Flat",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 6\"H",
+      "previewUrl": "http://undrian.com/sta_index_files/flat%20top.jpg",
+      "images": [
+        "http://undrian.com/sta_flat_files/flat%20above.jpg",
+        "http://undrian.com/sta_index_files/flat%20top.jpg",
+        "http://undrian.com/sta_flat_files/flat%20lounge.jpg"
+      ],
+      "video_url": "https://vimeo.com/252809463"
+    },
+    {
+      "id": "sta_tin",
+      "name": "Tin",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 8\"H",
+      "previewUrl": "http://undrian.com/sta_index_files/tin%20opening.jpg",
+      "images": [
+        "http://undrian.com/sta_tin_files/tin%20open.jpg",
+        "http://undrian.com/sta_index_files/tin%20opening.jpg",
+        "http://undrian.com/sta_tin_files/tin%20trays%20out.jpg",
+        "http://undrian.com/sta_tin_files/tin%20contents.jpg"
+      ]
+    },
+    {
+      "id": "sta_basin",
+      "name": "Basin",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 6\"H (pieces are megnetic)",
+      "previewUrl": "http://undrian.com/sta_index_files/basin%20above.jpg",
+      "images": [
+        "http://undrian.com/sta_basin_files/basin%20white%20lord.jpg",
+        "http://undrian.com/sta_index_files/basin%20above.jpg",
+        "http://undrian.com/sta_basin_files/basin%20side.jpg"
+      ],
+      "video_url": "https://vimeo.com/252809761"
+    },
+    {
+      "id": "sta_carapace",
+      "name": "Carapace",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, 6\"H (pieces are magnetic)",
+      "poem": "Running down the dirt road,\n\nPadlock on the chain link,\n\nTripping in the black woods,\n\nDoesn’t (does it) matter what you think.\n\n\n\nCrack an ostrich shell of powder.\n\nSpit in dust to make the mother.\n\nKnead it holy, just add water.\n\nGlue the pieces back together.\n\n\n\nBurn the hollow cast of mortals.\n\nBreak the body. Take angel cake.\n\nCut the crust off bite size morsels.\n\nEat, remember, and drive the stake.\n\n\n\nBaptize the babe dripping Venus.\n\nCrush the infant imperfect text.\n\nUnbind the hair to dry the fetus.\n\nRedeem the words the Book rejects.\n\n\nDug up in the backyard,\n\nWash it in the water,\n\nOpen with a pry bar,\n\nNo life no truth in matter.\n\n\n\nWrap the rocks in sackcloth,\n\nHammer nails the lid down,\n\nBuried in a pine box,\n\nWhat’s the matter underground?\n\n\n\nWrite Timothy’s three-faced letter.\n\nStuff the porky piggy Dutch boy.\n\nChubby stutter makes him madder.\n\nBust the bank for traitors’ money.\n\n\n\nSmash the dead head crucial fiction.\n\nPound the spikes in, so where’s the sting.\n\nThirty talents wait inspection.\n\nScatter flowers before morning.\n\n\n\nOn a carapace the virgin shatters,\n\nBloody muddy consummation.\n\nMiracles mend broke old bottles.\n\nSave the wine for exhumation.",
+      "previewUrl": "http://undrian.com/sta_index_files/carapace%20box.jpg",
+      "images": [
+        "http://undrian.com/sta_index_files/carapace%20box.jpg"
+      ],
+      "video_url": "https://vimeo.com/252809671"
+    },
+    {
+      "id": "sta_crawlspace",
+      "name": "Crawlspace",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "poem": "She already has a boyfriend.\n\nSmash the diamonds with a hammer.\n\nKeep him tied up for the weekend.\n\nThey can’t hold him in the slammer.\n\n\n\nBaby sister melts like chocolate.\n\nCan’t stop pacing in the office,\n\nSofa sleeps in furry blankets.\n\nDown on the farm, muck the horses.\n\n\n\nThe world you see, the world you dream,\n\nDefend, create, hallucinate,\n\nAll you know true, what grace makes you.\n\n\n\nFlashover in the controlled burn\n\nFinds asylum with his father.\n\nIt’s fat city for the bird man.\n\nPolice ask are you guys lovers?\n\n\n\nAgents listen in the crawlspace.\n\nKicked the door in, swears the landlord.\n\nOscilloscope traces sound waves.\n\nClear the balance. Take the records.\n\n\n\nThe still small voice beneath the noise\n\nThat reads your mind demands your rights.\n\nNobody knew where grace takes you.\n\n\n\nCrowds of people want to steal it.\n\nWith a hacksaw cut the barrel.\nInsulation muffles secrets.\n\nBlock hypnosis with tin foil.\n\n\n\nDrive by in the Toronado.\n\nWhy did you molest your daughter?\n\nFixer upper in the ghetto\n\nCan’t afford the guns and lawyers.\n\n\n\nCan’t comprehend you understand.\n\nThe two-faced friend is one of them.\n\nWhat else is new? Grace forsakes you.",
+      "previewUrl": "http://undrian.com/sta_index_files/crawlspace%20eyeball.jpg",
+      "images": [
+        "http://undrian.com/sta_index_files/crawlspace%20eyeball.jpg"
+      ],
+      "video_url": "https://vimeo.com/252809876"
+    },
+    {
+      "id": "sta_school",
+      "name": "School Time and Mr Reihus",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, dummy heads approx 6\"H",
+      "previewUrl": "http://undrian.com/sta_index_files/school%20door.jpg",
+      "images": [
+        "http://undrian.com/sta_school_files/school%20lunch.jpg",
+        "http://undrian.com/sta_school_files/school%20whistle.jpg",
+        "http://undrian.com/sta_school_files/school%20dimmy.jpg",
+        "http://undrian.com/sta_school_files/school%20spell.jpg"
+      ],
+      "video_url": "https://vimeo.com/252809944"
+    },
+    {
+      "id": "sta_chancel",
+      "name": "Chancel",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, dummy heads approx 6\"H",
+      "poem": "Their works prove their faith they in grace are elect.\n\nThe triple X cross the unfaithful reject.\n\nHe knows before time how each one will decide\n\nTo choose to believe or be cast in the fire.\n\n\n\nThe child full of pride will demand\n\nAnswers he cannot understand.\n\n\n\nFalse science asserts man descends from an ape.\n\nTo confound the skeptic he fossils creates.\n\nHe gives to his children dominion o’er earth\n\nAnd destroys the heathen his glory to serve.\n\n\n\nHis reasons are not known to man.\n\nWe must place our trust in his plan.\n\n\n\nPerfect from the void in his image forms man,\n\nAnd unleash the serpent to tempt them to sin,\n\nTill plague war and famine shall cut short their days\n\nAnd in desolation keep singing his praise.\n\n\n\nObey without thought his command\n\nAnd live fore’er at his right hand.",
+      "previewUrl": "http://undrian.com/sta_index_files/chancel%20pulpit.jpg",
+      "images": [
+        "http://undrian.com/sta_index_files/chancel%20pulpit.jpg"
+      ],
+      "video_url": "https://vimeo.com/252810028"
+    },
+    {
+      "id": "sta_workshop",
+      "name": "workshop",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Stations",
+      "description": "mixed media, dummy approx 24\"H",
+      "poem": "I’m not pinocchio.\n\nThis isn’t real, you know.\n\nIt’s just a picture show\n\nOn video.\n\n\n\nHe writes a play to star the child\n\nWho works as a carpenter a while.\n\nUp on the beam he has to die\n\nTo come alive.\n\n\n\nYou tell me it’s alright.\n\nWhen can I go outside?\n\nDon’t leave me here at night.\n\nTurn on the light.\n\n\n\nI have no eyes but you can see\n\nInside what I’m supposed to be\n\nSo cut away what is not me\n\nAnd set me free.\n\n\n\nYou say it will not hurt.\n\nYou say it could be worse.\n\nYou say I am the first\n\nTo hear the word.\n\n\n\nThe trunk is milled or left to rot.\n\nThe jamb is nailed and then torn out.\n\nThe puppet’s carved and kept or not\n\nAfter the shot.\n\n\n\nWill this be over soon?\n\nIs this where I was born?\n\nDon’t leave me here alone.\n\nLet me go home.",
+      "previewUrl": "http://undrian.com/sta_index_files/workshop%20gate.jpg",
+      "images": [
+        "http://undrian.com/sta_index_files/workshop%20gate.jpg"
+      ],
+      "video_url": "https://vimeo.com/252810077"
+    },
+    {
+      "id": "mech_run",
+      "name": "Run",
+      "date": {
+        "year": 2011
+      },
+      "series": "Mechanism",
+      "poem": "Come back here.\n\nBetter not run.\n\nHurts him more\n\nAfter he’s gone.\n\n\n\nMechanic belt slips the miller wife\n\nWho cut his tongue on the pulley slice,\n\nThe wheels in wheels grinding slow and fine.\n\n\n\nFather son\n\nAnd oily mouse,\n\nThree in one\n\nStop the noise.\n\n\n\nHis crankshaft and his connecting rod\n\nWill come for him as he runs around\n\nAnd when he’s old they still spin his head.\n\n\n\nSpare the lash,\n\nSpoil the boy,\n\nSeize the mice\n\nThe blades blow.\n\n\n\nAn endless loop in the bible belt,\n\nHe needs the leather his savior felt,\n\nThe mark of cain embossed on his pelt.\n\n\n\nDelft dumb blind\n\nFrigid blood,\n\nRun down time\n\nFor his own good.",
+      "previewUrl": "http://undrian.com/mech_index_files/run.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/run.jpg"
+      ],
+      "video_url": "https://vimeo.com/252805738"
+    },
+    {
+      "id": "mech_sleep",
+      "name": "Sleep",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "Sleep, mixed media, 2011, figure about 6” H standing up.",
+      "poem": "Melanoma, heart attack.\n\nRats in attic rattle traps.\n\nLawsuit stolen trade secret.\n\nBuy high sell low, owe more tax.\n\n\n\n(chorus)\n\nAre not sleeping, toss and turn,\n\nRuminate awaiting god damn dawn.\n\n\n\nFlabby slouching lower back.\n\nPromise her house but retract.\n\nSend in the work they reject.\n\nShe’s had enough of this crap.\n\n\n\nCome on the grass outside her.\n\nTurn left hit the other car.\n\nWaiter giggles can’t order.\n\nFrozen fingers, gears won’t turn.",
+      "previewUrl": "http://undrian.com/mech_index_files/sleep.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/sleep.jpg"
+      ],
+      "video_url": "https://vimeo.com/252805772"
+    },
+    {
+      "id": "mech_wash",
+      "name": "Wash",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "mixed media, 2011, figure about 6” H standing up.",
+      "poem": "He gets up from the bed\n\nturn the tap splash his face\n\nwash away yellow cake\n\nround the drain not awake.\n\nHow in hell can a man\n\nclear the sand from his eye\n\nwhen he can’t find his way\n\n‘cause they turned out the light?\n\n\n\nHe gets up from the chair\n\nto the sink soak his head\n\nrinse away black cob webs\n\nroaring blood sober numb.\n\nHow in hell can a guy\n\nclean the shame from the sty\n\nwhen he won’t go back home\n\nand burp up mouth of bile?\n\n\n\nHe gets up from the floor\n\nto dilute dirty tears\n\nwipe his cheek slapped upright\n\nwet behind burning ears.\n\nHow in hell can a boy\n\ncleave the past mirror missed\n\nwhen he don’t know a sin\n\nto forgive or confess?",
+      "previewUrl": "http://undrian.com/mech_index_files/wash.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/wash.jpg"
+      ],
+      "video_url": "https://vimeo.com/252805801"
+    },
+    {
+      "id": "mech_work",
+      "name": "Work",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "mixed media, 2011, figure about 6” H standing up.",
+      "poem": "Repeating:\n\nevery night sweep up the same floor,\n\nlooking at the clock.\n\nNo one knows\n\nthis is a performance art work,\n\nlooking for the next paycheck,\n\nTill the time to\n\nwait in line to punch the time card,\n\nrace out of the parking lot.\n\nIt’s too\n\nbright and noisy to sleep all day.\n\nGet up. Go back to work.\n\n\n\nRepeating:\n\nevery day work on the same stuff,\n\npassing time away.\n\nNo one knows\n\nthis is an important art work,\n\nsay it doesn’t pay to play,\n\nTill the time to\n\nwait to sink into a stupor,\n\nrise up, stumble off to quit.\n\nIt’s too\n\ndark and anxious to sleep all night.\n\nGet up. Go back to work.",
+      "previewUrl": "http://undrian.com/mech_index_files/work%20close.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/work%20close.jpg"
+      ],
+      "video_url": "https://vimeo.com/252807669"
+    },
+    {
+      "id": "mech_drink",
+      "name": "Drink",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "mixed media, 2011, figure about 6” H standing up.",
+      "poem": "Take my wealth and family,\n\nLeave me hanging on the vine,\n\nTake my health and memory,\n\nJust don’t take my cheap red wine.\n\n\n\nHa ha ha, cheap red wine,\n\nPour a glass to pass the time.\n\nHa ha ha, cheap red wine,\n\nDon’t remember why I’m cryin’.\n\n\n\nSome drink beer or rye whiskey,\n\nSome like pot or LSD,\n\nCrystal meth or ecstasy,\n\nJust ferment the grape for me.\n\n\n\nHa ha ha, cheap red wine,\n\nLift a glass to pass the time.\n\nHa ha ha, cheap red wine,\n\nDon’t remember if I’m cryin’.\n\n\n\nHeal the sick, cure the blind,\n\nCast out demons into swine,\n\nBut no trick was near as fine\n\nAs turning water into wine.\n\n\n\nHa ha ha, cheap red wine,\n\nDrink a glass to pass the time.\n\nHa ha ha, cheap red wine,\n\nDon’t remember, never mind.",
+      "previewUrl": "http://undrian.com/mech_index_files/drink.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/drink.jpg"
+      ],
+      "video_url": "https://vimeo.com/252805638"
+    },
+    {
+      "id": "mech_watch",
+      "name": "Watch",
+      "date": {
+        "year": 2011
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "mixed media, 2011, figure about 6” H standing up.",
+      "poem": "There must be something\n\non a better station\n\nbroadcasting live between\n\nreality and reruns.\n\n\n\nThere must be somes-\n\nthetic reprogramming\n\nbetween the rattle out\n\nand the opening gurgle in.\n\n\n\nThere must be sometime\n\nto pause mid arc on air\n\nbetween the ambulance\n\nand our unscheduled sponsor break.\n\n\n\nThere must be somewhere\n\nthe viewers flip between\n\nthe victim they despise\n\nand ghosts they never believe.\n\n\n\nThere must be someway\n\nto mute the nightly news\n\nof loathing lethargy\n\nbetween the bright squeaky snow.\n\n\n\nThere must be someone\n\nbetween the fear and lust\n\nthat blacks out childhood\n\nfor the studio audience.",
+      "previewUrl": "http://undrian.com/mech_index_files/watch%204.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/watch%204.jpg"
+      ],
+      "video_url": "https://vimeo.com/252807636"
+    },
+    {
+      "id": "mech_eat",
+      "name": "Eat",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "mixed media, 2012, figure about 6” H.",
+      "poem": "Someone hums a monotone\n\nhymn in her pliant kitchen.\n\nOpen hard the monolith\n\nwhich holds fast the condiments.\n\nStick his head in the ice box,\n\nsnatch and gulp a late morsel.\n\nShut that door, don’t let the chill\n\ngo to waste. Spoil your supper.\n\nThe prophet gnashes his teeth,\n\n“Who hid my pepperoni?”\n\nWe prefer our simple food,\n\nwe don’t need something fancy.\n\n\n\nGet enough? Was it good?\n\nHow was the presentation?\n\nBreak the seal, refrigerate\n\nLeftover expiration.\n\nSatisfy the multitude\n\nwith stale loaves and stinking fishes.\n\nDip the bread into the sup,\n\nour furtive bites betray us.\n\nCut the fattened salami\n\nto handle a hungry john.\n\nThere’s a mess served better cold,\n\nReplenished each desert morn.",
+      "previewUrl": "http://undrian.com/mech_index_files/eat.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/eat.jpg"
+      ],
+      "video_url": "https://vimeo.com/252805664"
+    },
+    {
+      "id": "mech_make",
+      "name": "Make",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "mixed media, 2012, little figure about 1/2” H, and big figure about 6” H, standing up.",
+      "poem": "You’re making a mechanism\n\nthat’s making a mechanism\n\nthat’s making a mechanism\n\nthat’s making you, that’s making you.\n\n\n\nYou lay down in your bed,\n\ncan’t sleep the whole night through.\n\nYou keep tossing turning\n\nlike the mechanism making you.\n\nYou ask if your nightmare\n\nis a dream that’s coming true.\n\nYou keep running sinful\n\nlike the mechanism making you.\n\n\n\nYou’re working a whirligig\n\nthat’s working a whirligig\n\nthat’s working a whirligig\n\nthat’s working you, that’s working you.\n\n\n\nYou can’t clear your eyesight\n\nwith the walls and floors askew.\n\nYou keep splashing your face\n\nlike the mechanism making you.\n\nYou work in the factory\n\nwhere they tell you what to do.\n\nYou keep sweeping the floor\n\nlike the mechanism making you.\n\n\n\nYou’re turning an automaton\n\nthat’s turning an automaton\n\nthat’s turning an automaton\n\nthat’s turning you, that’s turning you.\n\n\n\nIf you are a drunkard,\n\ncan’t stop at one or two.\n\nYou keep drinking red wine\n\nlike the mechanism making you.\n\nWhen you watch television\n\nwith nothing to turn to,\n\nyou keep changing channels\n\nlike the mechanism making you.\n\nIf you are a glutton,\n\nbite more than you can chew.\n\nYou keep eating cold cuts\n\nlike the mechanism making you.\n\n\n\nYou’re making a mechanism\n\nthat’s making a mechanism\n\nthat’s making a mechanism\n\nthat’s making you, that’s making you.",
+      "previewUrl": "http://undrian.com/mech_index_files/make.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/make.jpg"
+      ],
+      "video_url": "https://vimeo.com/252805694"
+    },
+    {
+      "id": "mech_movie",
+      "name": "Mechanism (The Movie)",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Mechanism",
+      "description": "Mechanism movie starring clips of all the individual mechansims and their songs combined with live action.",
+      "poem": "You’re making a mechanism that’s making a mechanism\n\nThat’s making a mechanism that’s making you, that’s making you.\n\nYou lay down in your bed, can’t sleep the whole night through.\n\nYou keep tossing turning like the mechanism making you…\n\nAre not sleeping, toss and turn, ruminate awaiting god damn dawn…\n\nCome back here. Better not run. Hurts him more after he’s gone.\n\nMechanic belt slips the miller wife who cut his tongue on the pulley slice…\n\nHe gets up from the floor to dilute dirty tears\n\nWipe his cheek slapped upright wet behind burning ears…\n\nYou keep splashing your face like the mechanism making you.\n\nYou work in the factory where they tell you what to do…\n\nNo one knows this is a performance art work,\n\nLooking for the next paycheck…\n\nHeal the sick, cure the blind, cast out demons into swine,\n\nBut no trick was near as fine as turning water into wine…\n\nThere must be something on a better station\n\nBroadcasting live between reality and reruns…\n\nThe prophet  gnashes his teeth, “Who hid my pepperoni?”\n\nWe prefer our simple food, we don’t need something fancy…\n\nYou ask if your nightmare is a dream that’s coming true.\n\nYou keep running sinful like the mechanism making you…\n\nMelanoma, heart attack, rats in attic chew on traps…\n\nAn endless loop in the bible belt, he needs the leather his savior felt…\n\nHow in hell can a man clear the sand from his eye,\n\nWhen he can’t find his way cause they turned out the light…\n\nEvery night sweep up the same floor, looking at the clock…\n\nHa ha ha, cheap red wine, drink a glass to pass the time…\n\nWhen you watch television with nothing to turn to,\n\nYou keep changing channels like the mechanism making you…\n\nShut that door, don’t let the chill go to waste. Spoil your supper…\n\nYou keep eating cold cuts like the mechanism making you…\n\nAre not sleeping, toss and turn…\n\nRun down time for his own good…\n\nWhen he won’t go back home and burp up mouth of bile…\n\nWait in line to punch the time card…\n\nDon’t remember, never mind…\n\nThat blacks out childhood…\n\nThere’s a mess served better cold…\n\nYou’re making a mechanism that’s making a mechanism\n\nThat’s making a mechanism that’s making you, that’s making you…\n\nThere must be somewhere the viewers flip between\n\nThe victim they despise and ghosts they never believe.",
+      "previewUrl": "http://undrian.com/mech_index_files/mechanism.jpg",
+      "images": [
+        "http://undrian.com/mech_index_files/mechanism.jpg"
+      ],
+      "video_url": "https://vimeo.com/252807694"
+    },
+    {
+      "id": "break_4whlsgd",
+      "name": "4WHLSGD",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Break",
+      "description": "mixed media, 2012, cyclist about 4” high\n\n(4WHLSGD is a personalized license plate from Animal Farm without EE OO.)",
+      "poem": "The screw unwinds, ratchets the pendulum.\n\nThe pulley turns, tightens the trigger string.\n\nRide on the right of the white line\n\nWhere you’re safe till the time is up.\n\n\n\nAn escapement from the cycle of fate,\n\nPedal faster away from people you hate.\n\nBut all your pride will fall aside\n\nWhen you’re hit by the escalade.",
+      "previewUrl": "http://undrian.com/break_index_files/bike.jpg",
+      "images": [
+        "http://undrian.com/break_index_files/bike.jpg"
+      ],
+      "video_url": "https://vimeo.com/252789863"
+    },
+    {
+      "id": "break_sandman",
+      "name": "Sandman",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Break",
+      "description": "Sandman, mixed media, 2012, figure about 4” tall\n\n(background video recorded at Cemex, Redwood City CA)",
+      "poem": "Mr. Sandman, send him a dream.\n\nA loaded lover, a loser alone,\n\nHigh on his tower, erratic roulette,\n\nIndustrial logic: alive and/or not.\n\n(Oh death, Oh death,\n\nWill you look as dark as another year?)\n\n\n\nPaddle wheel turns the weight of the sand,\n\nPivots the balance of the safety catch\n\nWhere the cam hollows for the firing pin\n\nThat pops under pressure and flips the chair back.\n\n(Oh death, Oh death,\n\nWill you feel as cold as another year?\n\nOh death, Oh death,\n\nWill you sound as quiet as another year?)\n\n\n\nMr. Sandman, put him to sleep,\n\nFinally ground down the aggregate stream,\n\nBefore he was born, a recycled shot,\n\nGently from the chamber, and back to the dust.\n\n(Oh death, Oh death,\n\nWill you last as long as another year?\n\nOh death, Oh death,\n\nWill you hurt as much as another year?)",
+      "previewUrl": "http://undrian.com/break_index_files/sandman.jpg",
+      "images": [
+        "http://undrian.com/break_index_files/sandman.jpg"
+      ],
+      "video_url": "https://vimeo.com/252797481"
+    },
+    {
+      "id": "break_pylon",
+      "name": "Pylon",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Break",
+      "description": "PYLON, mixed media, 2012, figure about 4” tall\n\n(background video recorded in Altamont, CA)",
+      "poem": "You’re running and you’re hoping\n\n    that it’s making you fit.\n\nYou’re running and you’re wishing\n\n    that you’re losing some weight.\n\nYou’re running and pretending\n\n    that your chest doesn’t hurt.\n\nBut you can’t run away from your broken heart.\n\n\n\nYears you smoked a pack a day.\n\nNights you drank the pain away.\n\nPile on pounds of crap you ate.\n\nHow could you live without love till today?\n\n\n\nYou’re running and you’re running and\n\n    you’re running away...",
+      "previewUrl": "http://undrian.com/break_index_files/altamont.jpg",
+      "images": [
+        "http://undrian.com/break_index_files/altamont.jpg"
+      ],
+      "video_url": "https://vimeo.com/252797452"
+    },
+    {
+      "id": "break_beam",
+      "name": "Beam",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Break",
+      "description": "Beam, mixed media, 2012, figure about 4” tall\n\n(background video recorded in Morgan Hill, CA)",
+      "poem": "Well, if Jesus had lived would he still build with wood,\n\nAn ex-con parolee finding work framing rough?\n\nLet the carpenter raise the cross beam high above\n\nThe bridegroom who spills life on the ground. Amen.\n\n\n\nThe walls of the temple are torn down to atone,\n\nThe posts of the prison break apart to release,\n\nThe beams of the suburb fall away to forgive\n\nBut the ladder of angels descends, again.",
+      "previewUrl": "http://undrian.com/break_index_files/house%202.jpg",
+      "images": [
+        "http://undrian.com/break_index_files/house%202.jpg"
+      ],
+      "video_url": "https://vimeo.com/252797292"
+    },
+    {
+      "id": "break_fault",
+      "name": "Fault",
+      "date": {
+        "year": 2012
+      },
+      "media": "mixed media",
+      "series": "Break",
+      "description": "Fault, mixed media, 2012, figure about 4” tall\n\n(background video recorded on the San Andreas fault,\n\nLos Trancos Open Space Preserve, Palo Alto, CA)",
+      "poem": "Sleep above the lake of fire,\n\nOblivious the basic fault,\n\nRock a boy by milky hammock,\n\nOpen mouth two blind eyed sloth,\n\nSecond death cross over magma,\n\nRent the veil and swallow up.\n\nOh no…",
+      "previewUrl": "http://undrian.com/break_index_files/san%20adreas.jpg",
+      "images": [
+        "http://undrian.com/break_index_files/san%20adreas.jpg"
+      ],
+      "video_url": "https://vimeo.com/252797433"
+    },
+    {
+      "id": "break_safe",
+      "name": "Safe",
+      "date": {
+        "year": 2010
+      },
+      "media": "mixed media",
+      "series": "Break",
+      "description": "This song is about the series but not about any particular object in the series.\n",
+      "poem": "In the machine they know god’s will,\n\nknow what to buy and when to sell,\n\nWho to ignore and who to jail,\n\nWait for rapture, leave you in hell.\n\n\n\nStay in the song, safe in the song,\n\nCan’t be right, can’t be wrong, in the song.\n\nStay in the song, safe in the song,\n\nThere’s no help, there’s no harm, in the song.\n\n\n\nA rampant cell, a hardened heart,\n\nA weakened vein, a vagrant clot,\n\nA burbling wheeze, gob in the throat,\n\nForgetful plaque, eager to rot.\n\n\n\nStay in the song, safe in the song,\n\nIt’s not cold, it’s not warm, in the song.\n\nStay in the song, safe in the song,\n\nNot yet dusk, not yet dawn, in the song.\n\n\n\nGun to the head, cord round the neck,\n\nLeap off the ledge, step on the track,\n\nBottle of pills, slit in the bath,\n\nHose in the car, swerve to the left.\n\n\n\nStay in the song, safe in the song,\n\nNothing short, nothing long, in the song.\n\nStay in the song, safe in the song,\n\nNever here, never gone, in the song.\n\n\n\nStay in the song, safe in the song,\n\nDon’t rebel, don’t belong, in the song.\n\nStay in the song, safe in the song,\n\nNot a soul, not alone, in the song.\n\n\n\nStay in the song, safe in the song,\n\nWake the dead, not a sound, in the song.\n\nStay in the song, safe in the song,\n\nDead and gone, on and on, in the song.",
+      "previewUrl": "http://undrian.com/break_index_files/toronto%20building.jpg",
+      "images": [
+        "http://undrian.com/break_index_files/toronto%20building.jpg"
+      ],
+      "audio_url": "https://soundcloud.com/und-rian/safe1"
+    }
+  ]
+}

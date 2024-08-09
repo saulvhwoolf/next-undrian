@@ -1,0 +1,30 @@
+
+
+.navlink {
+    /*font-style: ;*/
+}
+
+.navlink:hover {
+    font-weight: bold;
+}
+
+.headernav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.navlist {
+
+}
+
+.navlist li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.homelink {
+    font-weight: bold;
+    font-size: 2em;
+}

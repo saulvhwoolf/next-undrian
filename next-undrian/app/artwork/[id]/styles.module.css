@@ -1,0 +1,121 @@
+/* app/artwork/[id]/styles.module.css */
+.container {
+    position:relative;
+    display: grid;
+    height: calc(100vh - 50px);
+    /*padding: 2rem;*/
+    /*gap: 1rem;*/
+    overflow: hidden;
+    padding-top: 50px;
+
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+    "info media"
+    "info media"
+    "poem poem";
+}
+
+
+.infoSection {
+    grid-area: info;
+    overflow-y: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 400px;
+}
+
+.seriesInfo {
+    color: grey;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.title {
+    font-size: 2rem;
+}
+
+.description {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.poemSection {
+    grid-area: poem;
+    overflow-y: scroll;
+    max-height: 60vh;
+    line-height: .8em;
+}
+
+.mediaSection {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: calc(100vw - 500px);
+    grid-area: media;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.mediaSection > * {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 100vh;
+    width: 100%;
+
+}
+
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        display: block;
+
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        height: auto;
+    }
+
+    .infoSection {
+
+    }
+
+    .poemSection {
+        max-height: none;
+        height: auto;
+    }
+
+    .mediaSection {
+        position: relative;
+        width: 100%;
+    }
+
+
+}
+
+
+
+
+.navigation {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 50px;
+}
+
+.navButton:first-of-type {
+    float: left
+}
+
+.navButton:last-of-type {
+    text-align: right;
+    float: right;
+}
