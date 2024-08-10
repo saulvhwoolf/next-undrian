@@ -33,8 +33,8 @@ export default function Home() {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.title}>{portfolioData.artist.name}</h1>
-            <p className={styles.bio}>{portfolioData.artist.bio}</p>
+            {/*<h1 className={styles.title}>{portfolioData.artist.name}</h1>*/}
+            {/*<p className={styles.bio}>{portfolioData.artist.bio}</p>*/}
 
             <div className={styles.content}>
                 <div className={styles.seriesSection}>
