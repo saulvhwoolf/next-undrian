@@ -23,8 +23,14 @@ export function getArtworkData(id) {
 
 export function getSeriesData(name) {
     const data = getPortfolioData();
+    return data.series.find(series => series.name === name);
+}
+
+export function getArtworksForSeries(name) {
+    const data = getPortfolioData();
     return data.pieces.filter(piece => piece.series === name);
 }
+
 export function getNextAndPreviousArtwork(currentId) {
     const data = getPortfolioData();
     const allPieces = data.pieces;
@@ -67,19 +73,13 @@ export function getAllArtworksForTimeline() {
     });
 }
 
-export function getAllMedia() {
-    const data = getPortfolioData();
-    return data.media;
-}
-
 export function getAllSeries() {
     const data = getPortfolioData();
     return data.series;
 }
 
-
 export function getSeriesPreviewImage(seriesName) {
     const data = getPortfolioData();
     const seriesPiece = data.pieces.find(piece => piece.series === seriesName);
-    return seriesPiece ? seriesPiece.previewUrl : null;
+    return seriesPiece ? seriesPiece.previewImage : null;
 }

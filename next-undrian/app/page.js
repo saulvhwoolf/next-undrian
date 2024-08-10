@@ -3,11 +3,33 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getPortfolioData } from '@/app/util/portfolio';
 import styles from './page.module.css';
-import ArtCarousel from "@/components/ArtCarousel";
+
+function getYearRange(pieces) {
+    const years = pieces.map(piece => piece.date.year).filter(year => year);
+    if (years.length === 0) return '';
+    const minYear = Math.min(...years);
+    const maxYear = Math.max(...years);
+    if (minYear === maxYear) return `(${minYear.toString().slice(-2)})`;
+    return `(${minYear.toString().slice(-2)}-${maxYear.toString().slice(-2)})`;
+}
 
 export default function Home() {
     const portfolioData = getPortfolioData();
-    const allImages = portfolioData.pieces.flatMap(piece => [piece.previewUrl, ...(piece.images || [])]);
+
+    // Process series data
+    const seriesWithYearRange = portfolioData.series.map(seriesInfo => {
+        const seriesPieces = portfolioData.pieces.filter(piece => piece.series === seriesInfo.name);
+        const yearRange = getYearRange(seriesPieces);
+        const latestYear = Math.max(...seriesPieces.map(piece => piece.date.year).filter(year => year));
+        const previewImage = portfolioData.pieces.find(piece => piece.series === seriesInfo.name)?.previewImage;
+        return { ...seriesInfo, yearRange, latestYear, previewImage };
+    });
+
+    // Sort series by latest year, then by name
+    const sortedSeries = seriesWithYearRange.sort((a, b) => {
+        if (b.latestYear !== a.latestYear) return b.latestYear - a.latestYear;
+        return a.name.localeCompare(b.name);
+    });
 
     return (
         <div className={styles.container}>
@@ -18,28 +40,28 @@ export default function Home() {
                 <div className={styles.seriesSection}>
                     <h2 className={styles.sectionTitle}>Series</h2>
                     <div className={styles.seriesGrid}>
-                        {portfolioData.series.map((seriesName) => {
-                            const seriesImage = portfolioData.pieces.find(piece => piece.series === seriesName)?.previewUrl;
-                            return (
-                                <Link href={`/series/${encodeURIComponent(seriesName)}`} key={seriesName} className={styles.seriesLink}>
-                                    <div className={styles.seriesCard}>
+                        {sortedSeries.map((seriesInfo) => (
+                            <Link href={`/series/${encodeURIComponent(seriesInfo.name)}`} key={seriesInfo.name} className={styles.seriesLink}>
+                                <div className={styles.seriesCard}>
+                                    <div className={styles.imageWrapper}>
                                         <Image
-                                            src={seriesImage || '/placeholder.jpg'}
-                                            alt={seriesName}
-                                            width={300}
-                                            height={200}
+                                            src={seriesInfo.previewImage || '/placeholder.jpg'}
+                                            alt={seriesInfo.name}
+                                            layout="fill"
+                                            objectFit="cover"
                                             className={styles.seriesImage}
                                         />
-                                        <h3 className={styles.seriesName}>{seriesName}</h3>
                                     </div>
-                                </Link>
-                            );
-                        })}
+                                    <div className={styles.seriesInfo}>
+                                        <h3 className={styles.seriesName}>
+                                            {seriesInfo.name} <span className={styles.yearRange}>{seriesInfo.yearRange}</span>
+                                        </h3>
+                                        <p className={styles.seriesCount}>Artworks: {seriesInfo.count}</p>
+                                    </div>
+                                </div>
+                            </Link>
+                        ))}
                     </div>
-                </div>
-
-                <div className={styles.carouselSection}>
-                    <ArtCarousel images={allImages} />
                 </div>
             </div>
         </div>

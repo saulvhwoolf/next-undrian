@@ -1,4 +1,3 @@
-/* app/styles.module.css */
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -7,39 +6,27 @@
 
 .title {
   font-size: 2.5rem;
-  text-align: center;
   margin-bottom: 1rem;
 }
 
 .bio {
-  text-align: center;
+  font-size: 1.1rem;
   margin-bottom: 2rem;
 }
 
-.content {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-}
-
 .seriesSection {
-  flex: 1;
-  min-width: 300px;
-}
-
-.carouselSection {
-  width: 300px;
+  margin-top: 2rem;
 }
 
 .sectionTitle {
   font-size: 2rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .seriesGrid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .seriesLink {
@@ -48,38 +35,64 @@
 }
 
 .seriesCard {
-  border: 1px solid #e2e8f0;
-  border-radius: 0.5rem;
+  position: relative;
   overflow: hidden;
-  transition: transform 0.2s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
 }
 
 .seriesCard:hover {
-  transform: translateY(-5px);
+  transform: scale(1.05);
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 75%; /* 4:3 Aspect Ratio */
 }
 
 .seriesImage {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.seriesCard:hover .seriesImage {
+  transform: scale(1.1);
+}
+
+.seriesInfo {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+  color: white;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.seriesCard:hover .seriesInfo {
+  opacity: 1;
 }
 
 .seriesName {
-  padding: 1rem;
-  font-size: 1.25rem;
-  text-align: center;
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.yearRange {
+  font-size: 0.9rem;
+  font-weight: normal;
+  margin-left: 0.5rem;
+}
+
+.seriesCount {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 768px) {
-  .content {
-    flex-direction: column;
-  }
-
-  .carouselSection {
-    width: 100%;
-    order: -1; /* This moves the carousel above the series list on smaller screens */
-  }
-
   .seriesGrid {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }

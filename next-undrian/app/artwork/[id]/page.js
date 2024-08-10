@@ -37,9 +37,10 @@ export default function Artwork({params}) {
 
     for (let i = 0; i < artwork.images?.length; i++) {
         mediaElements.push(<>
-            <img key={i} src={artwork.images[i].replace("http://undrian.com/", "/proxy-images/")}
+            <img key={i} src={artwork.images[i].replace("http://undrian.com/", "/proxy-images/").replace("https://storage.googleapis.com/", "/proxy-images2/")}
                  alt={`${artwork.name} - Photo ${i + 1}`}
                  style={{gridColumn: (mediaCount==1?"span 2":"span 1")}}
+                 // style={{gridColumn: (mediaCount==1?"span 2":"span 1")}}
             />
         </>)
     }
@@ -62,7 +63,9 @@ export default function Artwork({params}) {
 
 
                     <div className={styles.mediaSection}>
-                        {mediaElements.map((mediaElement, index) => (mediaElement))}
+                        <div className={styles.pictureGrid}>
+                            {mediaElements.map((mediaElement, index) => (mediaElement))}
+                        </div>
                     </div>
 
                     {hasAudio && (

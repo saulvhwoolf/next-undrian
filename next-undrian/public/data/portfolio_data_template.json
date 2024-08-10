@@ -1,14 +1,8 @@
 {
   "artist": {
     "name": "Tim Van Hook",
-    "bio": "An artist through the ages"
+    "bio": "I had a major stroke when I was 62 in 2014. With therapy, I learned to\nwalk and talk again, but remain unable to use my right (dominant) hand and\narm. Before the stroke I had written poems and stories, and in 2015-6 I\ntried writing again, some of which is in the Writing folder. I had another\nstroke in 2017 and we moved cross country to live with our son Sam. In the\npast I had built furniture and sculpture, and, although I hadn’t used the tools\nsince my major stroke, I had them moved as well. Sam set up a workshop\nin our shared house, and, with his help, I decided to see what I could make\none handed."
   },
-  "categories": [
-    "Painting",
-    "Sculpture",
-    "Photography",
-    "Mixed Media"
-  ],
   "series": [
     "Early Works",
     "Nature Inspired",
@@ -19,20 +13,20 @@
     {
       "id": "piece001",
       "name": "Sunrise Over the Mountains",
+      "order": "111",
       "date": {
         "year": 2020,
         "month": 3,
-        "day": 15
       },
-      "category": "Painting",
       "series": "Nature Inspired",
-      "mainPhoto": "/art/lovehatedeath.jpg",
-      "additionalPhotos": [
+      "previewImage": "/art/lovehatedeath.jpg",
+      "images": [
         "/art/lovehatedeath.jpg",
         "/art/lovehatedeath.jpg"
       ],
-      "video": "/art/lovehatedeath.jpg",
-      "link": "/art/lovehatedeath.jpg",
+      "videoLink": "/art/lovehatedeath.jpg",
+      "audioLink": "/art/lovehatedeath.jpg",
+      "pdfLink": "/art/lovehatedeath.jpg",
       "description": "A vivid depiction of a sunrise over a mountain range, capturing the first light of dawn."
     },
     {
@@ -42,10 +36,13 @@
         "year": 2019,
         "month": 11
       },
-      "category": "Sculpture",
       "series": "Abstract Thoughts",
-      "mainPhoto": "/art/lovehatedeath.jpg",
-      "poem": "Gentle breeze, unseen force\nShaping the world, course by course\nWhispers of change, soft and low\nNature's breath, forever to flow"
+      "previewImage": "/art/lovehatedeath.jpg",
+      "images": [
+        "/art/lovehatedeath.jpg",
+        "/art/lovehatedeath.jpg"
+      ],
+      "body": "Gentle breeze, unseen force\nShaping the world, course by course\nWhispers of change, soft and low\nNature's breath, forever to flow"
     },
     {
       "id": "piece003",
@@ -53,9 +50,8 @@
       "date": {
         "year": 2021
       },
-      "category": "Photography",
       "series": "Recent Explorations",
-      "mainPhoto": "/art/lovehatedeath.jpg",
+      "previewImage": "/art/lovehatedeath.jpg",
       "description": "A black and white photograph capturing the contrast between nature and urban architecture."
     }
   ]
