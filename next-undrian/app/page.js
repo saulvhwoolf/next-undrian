@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getPortfolioData } from '@/app/util/portfolio';
 import styles from './page.module.css';
+import Gallery from "@/components/Gallery";
 
 function getYearRange(pieces) {
     const years = pieces.map(piece => piece.date.year).filter(year => year);
@@ -13,8 +14,10 @@ function getYearRange(pieces) {
     return `(${minYear.toString().slice(-2)}-${maxYear.toString().slice(-2)})`;
 }
 
-export default function Home() {
+
+export default async function  Home() {
     const portfolioData = getPortfolioData();
+
 
     // Process series data
     const seriesWithYearRange = portfolioData.series.map(seriesInfo => {
@@ -35,7 +38,6 @@ export default function Home() {
         <div className={styles.container}>
             {/*<h1 className={styles.title}>{portfolioData.artist.name}</h1>*/}
             {/*<p className={styles.bio}>{portfolioData.artist.bio}</p>*/}
-
             <div className={styles.content}>
                 <div className={styles.seriesSection}>
                     <h2 className={styles.sectionTitle}>Series</h2>

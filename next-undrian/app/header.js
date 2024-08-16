@@ -11,6 +11,11 @@ const Header = () => {
             <nav>
                 <ul className={styles.navlist}>
                     <li>
+                        <Link href="/gallery" className={styles.navlink}>
+                            Gallery
+                        </Link>
+                    </li>
+                    <li>
                         <Link href="/" className={styles.navlink}>
                             Series
                         </Link>
