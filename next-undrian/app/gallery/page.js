@@ -1,8 +1,10 @@
 import Gallery from "@/components/Gallery";
 
 async function getGalleryData() {
-    const response = await fetch('http://localhost:3000/api/getGalleryData', {method: "GET"});
+    const origin = typeof window !== 'undefined' ? window.location.origin : 'http://localhost:3000';
+    const response = await fetch(`${origin}/api/getGalleryData`, {method: "GET"});
     const data = await response.json();
+
     return data
 }
 
